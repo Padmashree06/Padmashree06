@@ -19,7 +19,7 @@ I began with web development, but curiosity about how computers *actually* work 
 **LinkedIn:** www.linkedin.com/in/padmashreess06
 ## 📊 GitHub Stats
 
-![Padmashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Padmashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmashree06&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmashree06&layout=compact&theme=radical)
 
