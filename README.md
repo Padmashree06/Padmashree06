@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Padmashree 👋
 
-<!--
-**Padmashree06/Padmashree06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student** exploring **Operating Systems, Compilers, and RISC-V**.
 
-Here are some ideas to get you started:
+I began with web development, but curiosity about how computers *actually* work pulled me towards low-level systems.
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🌱 **Learning** : ***Operating Systems*** & low-level systems programming
+ - 🔬 **Exploring** : ***RISC-V CPU design*** and **compiler internals**
+ - 💻 **Languages:** C, C++, JavaScript  
+  
+ - 📚 **Libraries and Frameworks :** React.js, NextJS, Node.js, ExpressJS 
+ 
+ - ⚙️ **Systems:** Linux, OS fundamentals, Compiler basics
+
+##  📫 Reach me through:
+**Email:** padmashreess2206@gmail.com
+
+**LinkedIn:** www.linkedin.com/in/padmashreess06
+## 📊 GitHub Stats
+
+![Padmashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+
