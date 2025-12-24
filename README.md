@@ -13,12 +13,6 @@ I am a **Computer Science student** interested in **low-level systems, operating
 
 ## Tech Stack
 
-**Languages:**  
-C · C++ · JavaScript
-
-**Frameworks & Libraries:**  
-React.js · Next.js · Node.js · Express.js
-
 **Systems & Concepts:**  
 Linux · OS Fundamentals · Compiler Basics · RISC-V Architecture
 
