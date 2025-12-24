@@ -14,12 +14,12 @@ I began with web development, but curiosity about how computers *actually* work 
  - ⚙️ **Systems:** Linux, OS fundamentals, Compiler basics
 
 ##  📫 Reach me through:
-**Email:** padmashreess2206@gmail.com
+**Email:** padmashreess2006@gmail.com
 
 **LinkedIn:** www.linkedin.com/in/padmashreess06
 ## 📊 GitHub Stats
 
-![Padmashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmashree06&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Padmashree06&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmashree06&layout=compact&theme=radical)
 
